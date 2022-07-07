@@ -1,0 +1,1 @@
+// ini fitur untuk AI
